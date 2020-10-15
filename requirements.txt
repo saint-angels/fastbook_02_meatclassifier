@@ -1,0 +1,5 @@
+fastai>=2.0.0
+ipywidgets
+voila
+pillow
+packaging
